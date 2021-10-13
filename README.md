@@ -1,5 +1,8 @@
 # Champion Management Platform 
 
+| [Documentation](https://github.com/Porkai-Pandian/cmp-local-10132021/wiki) | [Deployment guide](https://github.com/Porkai-Pandian/cmp-local-10132021/wiki/Deployment-guide) | [Architecture](https://github.com/Porkai-Pandian/cmp-local-10132021/wiki/Solution-overview) |
+| ---- | ---- | ---- |
+
 ## Introduction:
 The Champion Management Platform is a custom Teams app that enables organizations to onboard and maintain champions/ SME in their organization in Teams, allowing everyone discover Champions right where they collaborate. Utilize this template for multiple scenarios, such as new initiative adoption, champion onboarding, or to maintain organization-wide Subject Matter Experts.
 
