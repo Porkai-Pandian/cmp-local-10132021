@@ -1,6 +1,6 @@
 # Champion Management Platform 
 
-| [Documentation](https://github.com/Porkai-Pandian/cmp-local-10132021/wiki) | [Deployment guide](https://github.com/Porkai-Pandian/cmp-local-10132021/wiki/Deployment-guide) | [Architecture](https://github.com/Porkai-Pandian/cmp-local-10132021/wiki/Solution-overview) |
+| [Documentation](https://github.com/Porkai-Pandian/cmp-local-10132021/wiki) | [Deployment guide](https://github.com/Porkai-Pandian/cmp-local-10132021/wiki/Deployment-Guide) | [Architecture](https://github.com/Porkai-Pandian/cmp-local-10132021/wiki/Solution-Overview) |
 | ---- | ---- | ---- |
 
 ## Introduction:
