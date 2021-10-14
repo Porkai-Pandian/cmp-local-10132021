@@ -11,7 +11,7 @@ The app provides an easy interface for designated users to add members to the ch
 ![CMP Screen](./Images/WelcomeCMP.png)                   
 
 
-### Known issues
+## Known issues
 
 1) If site is presenting with spinning blue circle check to ensure permissions are allowed to the ChampionManagementPlatform sharepoint site. If this is happening on the first load experience ensure that the user running first run experience has permissions to create a SharePoint site (first run creates the initial ChampionManagementPlatform site).If you continue to experience the blue circle, please remove the app from Teams and try again. Visit our issues list to log an issue if issue is still persistent. 
 
@@ -21,7 +21,7 @@ The app provides an easy interface for designated users to add members to the ch
 
 
 
-### Additional Customization Options
+## Additional Customization Options
 
 The Champion Management Platform is built to provide a great starting point for managing your program. There are several ways you can modify the solution to fit your needs, with some of the major customizations in this current release coming from modifying list and column options once the solution has been deployed. Common actions include:
 
@@ -35,7 +35,7 @@ You could take similar actions in other lists to modify or add in event types an
 
 ![Quick Start Guide](./Images/WarningId.png) 
  
-### Legal
+## Legal
 
 This app template is provided under the MIT License terms. In addition to these terms, by using this app template you agree to the following:
 
@@ -47,12 +47,12 @@ This app template is provided under the MIT License terms. In addition to these 
 
 - Use of this template does not guarantee acceptance of your app to the Teams app store. To make this app available in the Teams app store, you will have to comply with the [submission and validation process](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/deploy-and-publish/appsource/publish), and all associated requirements such as including your own privacy statement and terms of use for your app.
 
-### Contributing
+## Contributing
 
 This project welcomes contributions and suggestions. Most contributions require you to agree to a Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us the rights to use your contribution. For details, visit https://cla.microsoft.com.
 
 When you submit a pull request, a CLA-bot will automatically determine whether you need to provide a CLA and decorate the PR appropriately (e.g., label, comment). Simply follow the instructions provided by the bot. You will only need to do this once across all repos using our CLA. This project has adopted the Microsoft Open Source Code of Conduct. For more information see the Code of Conduct FAQ or contact opencode@microsoft.com with any additional questions or comments.
 
-### Disclaimer ###
+## Disclaimer ###
 
 THIS CODE IS PROVIDED AS IS WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.
