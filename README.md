@@ -8,7 +8,7 @@ The Champion Management Platform is a custom Teams app that enables organization
 
 The app provides an easy interface for designated users to add members to the champion program, preview, collaborate and communicate and build a community of power users and coaches.  <br/>
 
-![CMP Screen](./Images/WelcomeCMP.png)                   
+![CMP Screen](./Images/AddTab_Teams.png)                   
 
 
 ## Known issues
