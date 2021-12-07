@@ -5,3 +5,9 @@
 ### 2. Why is my profile image not updated with Digital Badge?
 
  This happens when the permissions are not being inherited or approved after deploying package. The users must be able to update their profile images and Graph API permissions must have also been approved during package install. 
+
+ ### 3. I see the below error on Tournament of Teams “Leader Board” 
+ 
+"An unexpected error occured while getting users."
+
+ This happens when the API permission “User.ReadBasic.All” is not approved after upgrading the app from older versions to version 2.0. Refer to the “Upgrade” section and approve the API permission. After approving the permission, it would take some time for it to take effect. 

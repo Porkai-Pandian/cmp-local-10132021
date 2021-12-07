@@ -119,7 +119,7 @@ Continuing below steps you can take the cmp.sppkg file from the ***cmp.sppkg*** 
 10.	A confirmation dialog is displayed. Ensure the checkbox for "Make this solution available to all sites in the organization" is chosen and click ***Deploy***.
   <br/>
 
-![Quick Start Guide](../Images/Deploy.png) 
+![Quick Start Guide](../Images/Upgrade2.0-2.png) 
 <br/>
 11.	Return to the ***SharePoint admin center***. Under expand the ***Advanced*** menu in the left navigation and select ***API access***. Select and approve all pending requests associated with ***championmanagement***
   <br/>
@@ -146,7 +146,7 @@ This first run experience needs to be completed by the person who will be an adm
 ![Quick Start Guide](../Images/AddTab_ChampionAdd.png) 
 
 2. Click 'Add' to create the ***'Champion Management Platform'*** tab to your Teams (Alternately you can also just load the app as a personal app in the left rail here too).
-3. The landing page for an Admin will have access to the *Champion Leaderboard, Digital Badge* application, and the SharePoint lists(*Champions, Events,Event track Details*), as well as Manage Approvals.
+3. The landing page for an Admin will have access to the *Champion Leaderboard, Digital Badge, Enable Tournament of Teams* and the SharePoint lists (*Champions, Events,Event track Details, Digital Badges*), as well as Manage Approvals.
   <br/>
 
 ![Quick Start Guide](../Images/AddTab_Teams.png) 
@@ -186,3 +186,9 @@ CLbHomeWebPart.manifest.json is updated with a new entry, TeamsPersonalApp
 ### Completed Install
 Once you have performed the above steps, the deployment of the Champion Management Platform is now complete. If an admin was deploying this on behalf of the manager of the Champion Management Platform please have the admin add the
 Champion Management Platform manager as a champion and change their role in the Memberlist from ***Champion*** to ***Manager*** so they will have access to the other parts of the platform.
+
+### Enable Tournament of Teams
+
+Click on "Enable Tournament of Teams" on CMP home page to enable the Tournament of Teams. Refer to "Tournament of Teams" section for additional details.
+
+![Quick Start Guide](../Images/EnableTournaments.png) 
