@@ -1,6 +1,6 @@
 # Champion Management Platform 
 
-| [Documentation](https://github.com/OfficeDev/microsoft-teams-apps-champion-management/wiki) | [Solution Overview](https://github.com/OfficeDev/microsoft-teams-apps-champion-management/wiki/Solution-Overview) | [Architecture](https://github.com/OfficeDev/microsoft-teams-apps-champion-management/wiki/Architecture) | [Deployment Guide](https://github.com/OfficeDev/microsoft-teams-apps-champion-management/wiki/Deployment-Guide) | 
+| [Documentation](https://github.com/Porkai-Pandian/cmp-local-10132021/wiki) | [Solution Overview](https://github.com/Porkai-Pandian/cmp-local-10132021/wiki/Solution-Overview) | [Architecture](https://github.com/Porkai-Pandian/cmp-local-10132021/wiki/Architecture) | [Deployment Guide](https://github.com/Porkai-Pandian/cmp-local-10132021/wiki/Deployment-Guide) | 
 | ---- | ---- | ---- | ---- |
 
 ## Introduction
